@@ -1,0 +1,2 @@
+# algo-prog-basics
+WTFPL
