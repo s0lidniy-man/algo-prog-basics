@@ -1,2 +1,2 @@
-# algo-prog-basics
+# algo-prog-basics-julia
 WTFPL
